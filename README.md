@@ -1,7 +1,7 @@
 
 # AI Expense Analysis (Decision Tree)
 
-A medium-to-advanced project that aggregates transaction-level expense data,
+ project that aggregates transaction-level expense data,
 trains a Decision Tree regressor to predict next month's spending per category,
 and visualizes historical patterns and predictions.
 
